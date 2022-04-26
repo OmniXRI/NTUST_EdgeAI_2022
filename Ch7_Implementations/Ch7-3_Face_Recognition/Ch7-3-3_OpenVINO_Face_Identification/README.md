@@ -9,4 +9,5 @@ from google.colab.patches import cv2_imshow # 新增導入顯示OpenCV格式影�
 及將其改成Colab的cv2_imshow()  
 #cv2.imshow('Face recognition demo', frame)  
 cv2_imshow(frame) # 顯示輸入影像，在Colab中用以取代前一行cv2.imshow  
+再交由ipynb程式進行複製取代的動作。  
 
