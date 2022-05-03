@@ -4,5 +4,4 @@
 
 ### 7.4.1 OpenVINO 語義分割(ADAS)
 ### 7.4.2 OpenVINO 語義分割(Deeplabv3)
-### 7.4.3 OpenVINO 實例分割()
-### 7.4.4 OpenVINO 實例分割()
+### 7.4.3 OpenVINO 實例分割(C)
