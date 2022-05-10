@@ -12,5 +12,7 @@ human-pose-estimation-0007
 
 使用Intel's預訓練姿態估測模型進行推論，並繪製出骨架。  
 
-直接以Google Colab開啟範例，可點擊下列連結：
+直接以Google Colab開啟範例，可點擊下列連結：  
+
+https://colab.research.google.com/github/OmniXRI/NTUST_EdgeAI_2022/blob/main/Ch7_Implementations/Ch7-5_Pose_Estimation/Ch7-5-1_OpenVINO_Pose_Estimation/Colab_OpenVINO_Pose_Estimation.ipynb
 
