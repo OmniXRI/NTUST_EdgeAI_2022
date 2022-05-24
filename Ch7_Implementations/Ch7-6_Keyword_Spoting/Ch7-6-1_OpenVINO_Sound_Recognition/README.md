@@ -14,4 +14,4 @@ aclnet
 
 直接以Google Colab開啟範例，可點擊下列連結：  
 
-https://colab.research.google.com/github/OmniXRI/NTUST_EdgeAI_2022/blob/main/Ch7_Implementations/Ch7-6_Keyword_Spoting/Ch7-6-1_OpenVINouound_Recognition/Colab_OpenVINO_Sound_Recognition.ipynb
+https://colab.research.google.com/github/OmniXRI/NTUST_EdgeAI_2022/blob/main/Ch7_Implementations/Ch7-6_Keyword_Spoting/Ch7-6-1_OpenVINO_Sound_Recognition/Colab_OpenVINO_Sound_Classification.ipynb
