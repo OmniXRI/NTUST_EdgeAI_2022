@@ -11,5 +11,5 @@ https://colab.research.google.com/github/OmniXRI/NTUST_EdgeAI_2022/blob/main/Ch7
 ## 7.3. 人臉辨識
 ## 7.4. 影像分割
 ## 7.5. 姿態估測
-## 7.6. 喚醒詞辨識
-## 7.7. 時序信號預測
+## 7.6. 喚醒詞辨識(tinyML)
+## 7.7. 運動手勢辨識(tinyML)
