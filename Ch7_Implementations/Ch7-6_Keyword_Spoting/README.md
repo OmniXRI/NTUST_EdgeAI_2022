@@ -1,5 +1,8 @@
 #  第七章 邊緣智慧案例實作
 
-## 7.6 喚醒詞辨識
+## 7.6 喚醒詞辨識(tinyML)
 
-### 7.6.1 OpenVINO聲音辨識
+* 語音辨識基本介紹
+* OpenVINO案例
+* tinyML簡介
+* Edge Impulse範例實作
