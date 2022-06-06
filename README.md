@@ -64,15 +64,14 @@ omnixir@gmail.com
   7.3. 人臉辨識  
   7.4. 影像分割  
   7.5. 姿態估測  
-  7.6. 喚醒詞辨識  
-  7.7. 時序信號預測  
+  7.6. 喚醒詞辨識 (tinyML)
+  7.7. 運動手勢辨識 (tinyML)
 
 8. 附錄(Appendix)  
   A. 創意專題製作與分享  
-  B. Pi Pico實作練習  
   C. Intel DevCloud安裝與測試  
   D. Google Colab進階使用  
 
-[【110學年度 完整課程表與課程簡報】](https://omnixri.blogspot.com/p/ntust-110-edge-ai.html)  
+[【110學年度 完整課程表與課程簡報網頁版】](https://omnixri.blogspot.com/p/ntust-110-edge-ai.html)  
 
 **相關課程簡報及範例程式陸續更新中...**  
